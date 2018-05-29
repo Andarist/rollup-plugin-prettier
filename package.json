@@ -27,7 +27,7 @@
   "dependencies": {
     "diff": "3.5.0",
     "magic-string": "0.24.1",
-    "prettier": "^1.0.0"
+    "prettier": "^1.13.1"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
